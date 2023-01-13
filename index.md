@@ -20,7 +20,13 @@ Translation of the words 'expensive income' into Tagalog for the Term 3 Araling 
 
 > 
 > If she leaves you for another, there is always her mother.
+> 
 
+
+
+#### punpun appreciation gaanggg
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### interested in:
 
@@ -31,15 +37,21 @@ Translation of the words 'expensive income' into Tagalog for the Term 3 Araling 
 *   philosophy and politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
 *   photography (sucked)
 
-#### punpun appreciation gaanggg
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
 
-##### Header 5
+#### favorite foods and beverages:
+ 
+* milktea
+* pizza
+* pesto pasta
+* mi goreng
+* water
+* bread
+* mung bean soup
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+
+
 
 ###### Header 6
 
@@ -62,7 +74,7 @@ calendar(cal_demo_data("week"), view = "week", defaultDate = Sys.Date()) %>%
 *   Item baz
 *   Item zip
 
-### favorite food and beverages:
+### :
 
 1.  Item one
 1.  Item two
