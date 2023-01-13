@@ -1,45 +1,39 @@
 ---
 layout: default
 ---
+![324855282_1312370302878808_3061126796453204679_n](https://user-images.githubusercontent.com/122244346/212381013-40ae81fb-b17c-4929-ae83-821be810661e.jpg)
+
+
 
 Hello po ;3
+![627addc42fa20df294065eb042993efc](https://user-images.githubusercontent.com/122244346/212380409-dbf711e5-887b-4056-bda1-ca56f233000f.jpg)
 
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### a challenge~
 
-# A Challenge~
+![bb193d3c2af2d12905197222b95e635d](https://user-images.githubusercontent.com/122244346/212380840-7e50902c-19fc-4955-be72-715ede5ab26c.jpg)
 
 Translation of the words 'expensive income' into Tagalog for the Term 3 Araling Panlipunan ST 1.
 
 
 
 > 
-> f she leaves you for another, there is always her mother.
+> If she leaves you for another, there is always her mother.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### interested in:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   playing the guitar/ukelele
+*   art (drawing)
+*   learning spanish
+*   history 
+*   philosophy and politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
+*   photography (sucked)
 
-#### Header 4
+#### punpun appreciation gaanggg
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##### Header 5
 
@@ -49,12 +43,13 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three | 
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+calendar(cal_demo_data("week"), view = "week", defaultDate = Sys.Date()) %>% 
+  cal_week_options(
+    startDayOfWeek = 1,
+    workweek = TRUE
+  ) %>% 
+  cal_props(cal_demo_props())
+
 
 ### There's a horizontal rule below this.
 
@@ -67,14 +62,14 @@ end
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### favorite food and beverages:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+### to do:
 
 - level 1 item
   - level 2 item
