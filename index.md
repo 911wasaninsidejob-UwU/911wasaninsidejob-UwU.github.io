@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello po ;3
 
 
 There should be whitespace between paragraphs.
@@ -11,13 +11,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # A Challenge~
 
-Translation of the words 'expensive income' into Tagalog.
+Translation of the words 'expensive income' into Tagalog for the Term 3 Araling Panlipunan ST 1.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+> 
+> f she leaves you for another, there is always her mother.
 
 ### Header 3
 
@@ -123,7 +122,7 @@ end
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠸⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-```
-先生、どうもありがとうございました。良い一日を過ごしてください！
-```
-[Next Page](./another-page.html).
+
+#### 先生、どうもありがとうございました。良い一日を過ごしてください！
+
+[Next Page](./another-page.html)
