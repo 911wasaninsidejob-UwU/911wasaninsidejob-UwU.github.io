@@ -19,9 +19,9 @@ Translation of the words 'expensive income' into Tagalog for the Term 3 Araling 
 
 
 
-> If she leaves you for another...
->  
->              There is always her mother.
+> 
+> If she leaves you for another, there is always her mother.
+>
 
 
 
