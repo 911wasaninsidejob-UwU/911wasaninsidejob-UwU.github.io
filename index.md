@@ -5,83 +5,72 @@ layout: default
 
 
 
-Hello po ;3
+### Hello po ;3
 ![627addc42fa20df294065eb042993efc](https://user-images.githubusercontent.com/122244346/212380409-dbf711e5-887b-4056-bda1-ca56f233000f.jpg)
 
 
 
-### a challenge~
+### A challenge~
 
-![bb193d3c2af2d12905197222b95e635d](https://user-images.githubusercontent.com/122244346/212380840-7e50902c-19fc-4955-be72-715ede5ab26c.jpg)
+![12](https://user-images.githubusercontent.com/122244346/212462541-e499071a-4948-4af3-bb70-35d2683e52a2.jpg)
+
 
 Translation of the words 'expensive income' into Tagalog for the Term 3 Araling Panlipunan ST 1.
 
 
 
-> 
-> If she leaves you for another, there is always her mother.
-> 
+> If she leaves you for another...
+>  
+>              There is always her mother.
 
 
 
-#### punpun appreciation gaanggg
+#### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### interested in:
+#### Interested in:
 
-*   playing the guitar/ukelele
-*   art (drawing)
-*   learning spanish
-*   history 
-*   philosophy and politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
-*   photography (sucked)
+*   Playing the Guitar/Ukelele
+*   Art (drawing)
+*   Learning Spanish
+*   History 
+*   Philosophy and Politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
+*   Photography (I suck at it, but am improving)
+*   Cooking n' Baking
 
 
 ![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
 
-#### favorite foods and beverages:
+#### Favorite foods and beverages:
  
-* milktea
-* pizza
-* pesto pasta
-* mi goreng
-* water
-* bread
-* mung bean soup
+* Milktea
+* Pizza
+* Pesto pasta
+* Mi goreng
+* Water
+* Bread
+* Mung bean soup
+* Sweet potato
 
 
 
 
-###### Header 6
-
-calendar(cal_demo_data("week"), view = "week", defaultDate = Sys.Date()) %>% 
-  cal_week_options(
-    startDayOfWeek = 1,
-    workweek = TRUE
-  ) %>% 
-  cal_props(cal_demo_props())
 
 
-### There's a horizontal rule below this.
+
+### Huwag kayong maging torpe ngayong valentine's day! 
 
 * * *
 
-### Here is an unordered list:
+### Intrusive thoughts:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### :
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### to do:
+### To dos:
 
 - level 1 item
   - level 2 item
