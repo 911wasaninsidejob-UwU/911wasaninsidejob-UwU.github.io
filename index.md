@@ -10,7 +10,7 @@ layout: default
 
 
 
-### A challenge~
+### A Challenge~
 
 ![12](https://user-images.githubusercontent.com/122244346/212462541-e499071a-4948-4af3-bb70-35d2683e52a2.jpg)
 
