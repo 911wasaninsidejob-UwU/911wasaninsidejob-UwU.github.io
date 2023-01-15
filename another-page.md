@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome~ 
 
-_yay_
+I'm planning to use this page to remotely host resources and stuff (maybe, idk).
 
 [back](./)
