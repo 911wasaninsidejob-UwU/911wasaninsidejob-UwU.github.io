@@ -10,12 +10,11 @@ layout: default
 
 
 
-### A Challenge~
+### Expensive Income~
 
 ![12](https://user-images.githubusercontent.com/122244346/212462541-e499071a-4948-4af3-bb70-35d2683e52a2.jpg)
 
 
-Translation of the words 'expensive income' into Tagalog for the Term 3 Araling Panlipunan ST 1.
 
 
 
