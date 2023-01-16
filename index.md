@@ -1,32 +1,21 @@
 ---
 layout: default
 ---
-![324855282_1312370302878808_3061126796453204679_n](https://user-images.githubusercontent.com/122244346/212381013-40ae81fb-b17c-4929-ae83-821be810661e.jpg)
 
+![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
 
-
-### Hello po ;3
-![627addc42fa20df294065eb042993efc](https://user-images.githubusercontent.com/122244346/212380409-dbf711e5-887b-4056-bda1-ca56f233000f.jpg)
+# Hello pooooo ;3
 
 
 
 ### Expensive Income~
 
-![12](https://user-images.githubusercontent.com/122244346/212462541-e499071a-4948-4af3-bb70-35d2683e52a2.jpg)
-
-
-
-
-
-> 
-> If she leaves you for another, there is always her mother.
->
-
-
 
 #### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
 
 #### Interested in:
 
@@ -37,9 +26,6 @@ layout: default
 *   Philosophy and Politics (very dumb in these 。U⁄ ⁄ω⁄ ⁄ U。 )
 *   Photography (I suck at it, but am improving)
 *   Cooking n' Baking
-
-
-![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
 
 #### Favorite foods and beverages:
  
@@ -52,7 +38,13 @@ layout: default
 * Mung bean soup
 * Sweet potato
 
-
+### Favorite animes and mangas:
+* Chainsaw Man
+* Demon Slayer
+* A Silent Voice 
+* I Want to Eat Your Pancreas
+* Goodnight Punpun
+* and counting...
 
 
 
@@ -89,7 +81,7 @@ layout: default
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-```
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⣼⡟⡀⠀⠀⠀⠀⠁⡴⠋⠉⠉⠙⡧⡄⣆⠀⠀⠀⠀⠀⣠⣯⡇⠀⢀⣴⡶⣿⢍⣄⢄⡀⠀⠀⠀⣶⡆⠀⠀⢀⣤⡖⡀⠀⠀⠀⠀
 ⠀⠈⣿⡿⠿⣿⣷⣆⠀⣟⣏⣀⡀⣀⣠⣇⣷⢻⡆⠀⠀⠀⡼⣿⠋⣀⣦⡋⠯⠉⠀⠁⠃⠷⣽⠀⠀⠀⣿⡇⡠⡿⠉⠁⠀⠀⠀⠀⠀⠀
@@ -115,7 +107,6 @@ layout: default
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⣿⡏⠀⠀⠀⣿⡆⠀⠀⣿⣷⠁⡰⠿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠯⣿⣆⡀⣖⡟⠀⠀⠀⢹⣿⡿⠇⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠸⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
 
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
