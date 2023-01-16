@@ -58,7 +58,7 @@ layout: default
 
 
 
-### Huwag kayong maging torpe ngayong valentine's day! 
+### Dead  
 
 * * *
 
@@ -71,7 +71,7 @@ layout: default
 
 ### To dos:
 
-- level 1 item
+- Science Pr
   - level 2 item
   - level 2 item
     - level 3 item
