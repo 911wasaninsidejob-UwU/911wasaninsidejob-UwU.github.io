@@ -111,4 +111,4 @@ layout: default
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
 
-[1](./another-page.html)-[2](./A Letter of Solidarity.html)
+[1](./another-page.html)-[2](./index.html)
