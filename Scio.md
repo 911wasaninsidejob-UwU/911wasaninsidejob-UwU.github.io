@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome~ 
+## On Scio 
 
 I'm planning to use this page to remotely host resources and stuff (maybe, idk).
 
