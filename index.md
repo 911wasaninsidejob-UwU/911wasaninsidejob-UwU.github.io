@@ -2,13 +2,11 @@
 layout: default
 ---
 
+## Hello pooooo 🐱
+
+
 ![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
 
-# Hello pooooo ;3
-
-
-
-### Expensive Income~
 
 
 #### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
@@ -111,4 +109,4 @@ layout: default
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
 
-[1](./Scio.html)-[2](./Game.html)-[3](./The Prince.html)
+[1](./Scio.html)-[2](./Game.html)-[3](./The Prince.html)-[3](./The Prince.html)
