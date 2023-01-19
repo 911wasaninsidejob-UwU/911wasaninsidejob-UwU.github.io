@@ -111,4 +111,4 @@ layout: default
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
 
-[1](./Scio.html)-[2](./Game.html)
+[1](./Scio.html)-[2](./Game.html)-[3](./The Prince.html)
