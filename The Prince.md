@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The Prince 
+## Scio 1
 
 I'm planning to use this page to remotely host resources and stuff (maybe, idk).
 
@@ -145,19 +145,7 @@ a:hover {
 <body><section class="pg-boilerplate pgheader" id="pg-header" lang="en">
 
     <div class="container" id="pg-machine-header">
-        <p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Title</strong>: The Prince</p>
-        
-        <p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Author</strong>: Niccolò Machiavelli</p>
-<p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Translator</strong>: W. K. Marriott</p>
-
-        <p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Release Date</strong>: February 11, 2006 [EBook #1232]</p>
-        <p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Language</strong>: English</p>
-        
-        <p style="display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em"><strong>Credits</strong>: Updated: 2022-07-01</p>
-    </div>
-    <div class="vspace" style="height: 2em"><br></div>
-        <div style="text-align:center">
-            <span>*** START OF THE PROJECT GUTENBERG EBOOK THE PRINCE ***</span>
+       
         </div>
 </section><div style="margin-top:2em; margin-bottom:4em"></div>
 <h1>The Prince</h1>
@@ -5146,7 +5134,7 @@ born, not in Lucca, but in Macedonia or Rome.
 </div><p><!--end chapter-->
 </p><div style="display:block; margin-top:4em"></div><section class="pg-boilerplate pgheader" id="pg-footer" lang="en">
         <div style="text-align:center">
-            <span>*** END OF THE PROJECT GUTENBERG EBOOK THE PRINCE ***</span>
+            <span>*** END ***</span>
         </div>
     
 </section></body>
