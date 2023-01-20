@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Hello pooooo 🐱
+# Kamikrazee
 
 
 ![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
 
+### Personal Writings and Reference Books
 
+[Scio PW](./Scio.html)
+[The Prince RB](./The Prince.html)
 
+### My Mini-Games
+
+[TicTacToe](./Game.html)
+[RVSP](./Game2.html)
+[Sokoban](./Game3.html)
+[Tetris](./Game4.html)
+
+* * *
+
+## De Me et Aliis
 #### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -44,11 +57,11 @@ layout: default
 * Goodnight Punpun
 * and counting...
 
-
-
-
-
-### Dead  
+### Meee~
+* Intj-t raw💀
+* NPC energy
+* I'll be a priest, no cap
+* to be updated nalang, ily
 
 * * *
 
@@ -108,5 +121,3 @@ layout: default
 
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
-
-[Scio](./Scio.html)-[TicTacToe](./Game.html)-[The Prince](./The Prince.html)-[RVSP](./Game2.html)-[Sokoban](./Game3.html)-[Tetris](./Game4.html)
