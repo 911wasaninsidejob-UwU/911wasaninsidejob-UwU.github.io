@@ -9,13 +9,20 @@ layout: default
 
 ### Personal Writings/Media and Reference Books
 
-* [Scio PW](./Scio.html)
+* [Music](./Music.html)
+* [Art](./Art.html)
+* [Learning Spanish](./Learning Spanish.html)
+* [History](./History.html)
+* [Philosophy-Politics](./Philosophy-Politics.html)
+* [Photography](./Photography.html)
+* [Cooking-Baking](./Cooking-Baking.html)
+
 * [The Prince RB](./The Prince.html)
 
 ### My Mini-Games
 
 * [TicTacToe](./Game.html)
-* [RVSP](./Game2.html)
+* [Rock VSP Paper](./Game2.html)
 * [Sokoban](./Game3.html)
 * [Tetris](./Game4.html)
 
