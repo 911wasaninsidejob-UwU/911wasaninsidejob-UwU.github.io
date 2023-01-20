@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## On Scio 
+## Philosophy and Politics
 
-I'm planning to use this page to remotely host resources and stuff (maybe, idk).
+Will include samples and resources in the future~
 
-[back](./)
+[Main](./index.md)
