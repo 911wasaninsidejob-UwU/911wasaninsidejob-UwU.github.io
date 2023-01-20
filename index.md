@@ -13,7 +13,6 @@ layout: default
 * [Art](./Art.html)
 * [Learning Spanish](./Learning Spanish.html)
 * [History](./History.html)
-* [Philosophy-Politics](./Philosophy-Politics.html)
 * [Photography](./Photography.html)
 * [Cooking-Baking](./Cooking-Baking.html)
 
@@ -31,13 +30,13 @@ layout: default
 * * *
 
 ## De Me et Aliis
-#### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
+### Punpun appreciation gaanggg!!!! ༼ಢ_ಢ༽
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X6e6F_z17sI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![nxZJG1X](https://user-images.githubusercontent.com/122244346/212382607-da54bab0-a3ef-4a24-b390-36db8aa5b8b1.jpeg)
 
-#### Interested in:
+### Interested in:
 
 *   Playing the Guitar/Ukelele
 *   Art (drawing)
@@ -47,7 +46,7 @@ layout: default
 *   Photography (I suck at it, but am improving)
 *   Cooking n' Baking
 
-#### Favorite foods and beverages:
+### Favorite foods and beverages:
  
 * Milktea
 * Pizza
@@ -127,6 +126,6 @@ layout: default
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⣿⡏⠀⠀⠀⣿⡆⠀⠀⣿⣷⠁⡰⠿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠯⣿⣆⡀⣖⡟⠀⠀⠀⢹⣿⡿⠇⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠸⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+* [.](./Philosophy-Politics.html)
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
