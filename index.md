@@ -25,6 +25,7 @@ layout: default
 * [Rock VS Paper](./Game2.html)
 * [Sokoban](./Game3.html)
 * [Tetris](./Game4.html)
+* [Pong](./Game5.html)
 
 * * *
 
