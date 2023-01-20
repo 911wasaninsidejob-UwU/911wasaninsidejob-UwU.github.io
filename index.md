@@ -9,15 +9,15 @@ layout: default
 
 ### Personal Writings and Reference Books
 
-[Scio PW](./Scio.html)
-[The Prince RB](./The Prince.html)
+* [Scio PW](./Scio.html)
+* [The Prince RB](./The Prince.html)
 
 ### My Mini-Games
 
-[TicTacToe](./Game.html)
-[RVSP](./Game2.html)
-[Sokoban](./Game3.html)
-[Tetris](./Game4.html)
+* [TicTacToe](./Game.html)
+* [RVSP](./Game2.html)
+* [Sokoban](./Game3.html)
+* [Tetris](./Game4.html)
 
 * * *
 
