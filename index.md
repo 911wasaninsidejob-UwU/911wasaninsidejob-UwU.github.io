@@ -26,6 +26,7 @@ layout: default
 * [Sokoban](./Game3.html)
 * [Tetris](./Game4.html)
 * [Pong](./Game5.html)
+* [Manok na Yellow](./manok na yellow/Game6.html)
 
 * * *
 
