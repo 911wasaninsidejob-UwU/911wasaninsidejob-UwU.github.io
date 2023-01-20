@@ -22,7 +22,7 @@ layout: default
 ### My Mini-Games
 
 * [TicTacToe](./Game.html)
-* [Rock VSP Paper](./Game2.html)
+* [Rock VS Paper](./Game2.html)
 * [Sokoban](./Game3.html)
 * [Tetris](./Game4.html)
 
