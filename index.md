@@ -109,4 +109,4 @@ layout: default
 
 #### 先生、どうもありがとうございました。良い一日を過ごしてください！
 
-[Scio](./Scio.html)-[TicTacToe](./Game.html)-[The Prince](./The Prince.html)-[RVSP](./Game2.html)
+[Scio](./Scio.html)-[TicTacToe](./Game.html)-[The Prince](./The Prince.html)-[RVSP](./Game2.html)-[Sokoban](./Game3.html)-[Tetris](./Game4.html)
