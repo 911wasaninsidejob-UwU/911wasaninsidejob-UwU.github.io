@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Kamikrazee
+# Kamikrazeee
 
 
 ![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
