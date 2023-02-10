@@ -66,11 +66,11 @@ layout: default
 
 ### Intrusive thoughts:
 
-*I'm scared to die
+* I'm scared to die
 
 ### To dos:
 
-*Be Good
+* Be Good
 
 ### OctoNeko
 
