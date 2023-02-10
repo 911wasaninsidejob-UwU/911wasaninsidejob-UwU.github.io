@@ -9,7 +9,7 @@ layout: default
 
 ### An Interesting Book
 
-* [The Prince] (./The Prince.html)
+* [The Prince](./The Prince.html)
 
 ### My Mini-Games
 
