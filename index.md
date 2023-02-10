@@ -7,16 +7,9 @@ layout: default
 
 ![1264439](https://user-images.githubusercontent.com/122244346/212585910-e58bcbd4-66aa-4193-abc2-6684538025a5.jpg)
 
-### Personal Writings/Media and Reference Books
+### An Interesting Book
 
-* [Music](./Music.html)
-* [Art](./Art.html)
-* [Learning Spanish](./Learning Spanish.html)
-* [History](./History.html)
-* [Photography](./Photography.html)
-* [Cooking-Baking](./Cooking-Baking.html)
-
-* [The Prince RB](./The Prince.html)
+* [The Prince] (./The Prince.html)
 
 ### My Mini-Games
 
@@ -63,38 +56,21 @@ layout: default
 * A Silent Voice 
 * I Want to Eat Your Pancreas
 * Goodnight Punpun
-* and counting...
 
 ### Meee~
 * Intj-t raw💀
 * NPC energy
 * I'll be a priest, no cap
-* to be updated nalang, ily
 
 * * *
 
 ### Intrusive thoughts:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*I'm scared to die
 
 ### To dos:
 
-- Science Pr
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+*Be Good
 
 ### OctoNeko
 
